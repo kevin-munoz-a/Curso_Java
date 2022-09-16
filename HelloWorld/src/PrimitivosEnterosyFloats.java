@@ -1,4 +1,4 @@
-public class Primitivos {
+public class PrimitivosEnterosyFloats {
 
     //de esta forma podemos ver el valor por defecto de un primitivo
     static float varFlotante; // por defecto "0.0"
